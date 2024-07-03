@@ -1,4 +1,4 @@
-# Assignment 3
+# DBMS Assignment 3
 ## here is ER Diagram
 ![logo](./images/ERDiagram.png)
 
