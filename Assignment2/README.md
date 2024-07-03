@@ -1,4 +1,4 @@
-# DBMS Assignment 1
+# DBMS Assignment 2s
 
 ## here is the ER Diagram
 
